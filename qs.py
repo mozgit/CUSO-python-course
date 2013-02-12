@@ -1,4 +1,8 @@
 def Sort(arr=[2, 4, 5, 1, 2, 3, 6]):
+    """ Sort function provide\
+    quick sort algorythm. It takes array\
+    of numbers as input and returns sorted\
+    array"""
     less = []
     type(less)
     more = []
